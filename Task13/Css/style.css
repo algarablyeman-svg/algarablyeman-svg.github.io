@@ -1,0 +1,19 @@
+.company{
+    background-image: url(../images/images.jpg);
+    background-size: cover;
+    background-position: center;
+    text-align: center;
+    color: white;
+    min-height: 150px;
+    max-height: 250px;
+    overflow: hidden;
+}
+.title span{
+    background: linear-gradient(90deg, rgb(133, 5, 93) 0%, rgb(231, 105, 183) 100%); 
+   -webkit-background-clip: text;
+   background-clip: text;
+    color: transparent;
+}
+.title{ 
+    text-align: center;
+}

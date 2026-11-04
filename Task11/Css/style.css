@@ -1,0 +1,47 @@
+.title{
+    text-align: center;
+}
+.fancy{ 
+    display: flex;
+    align-items: center;
+}
+.name{
+     color:white;
+     padding: 5px 15px; 
+    text-align: center;
+    
+}
+.hero{ 
+    background-color: pink;
+}
+.img{
+    display: block;
+     border-radius:50%;
+    object-fit: cover;
+    width: 200px;
+    height: 200px;
+    margin: 0 auto 20px;
+}
+.form{
+    width: 500px; 
+    margin: 50px auto; 
+}
+.for{ 
+    background-color:black;
+     padding: 2px 15px; 
+    text-align: center;
+}    
+.Reset{
+    background-color: deeppink;
+    text-align: center;
+}
+.Submit{
+    background-color: hotpink;
+    text-align: center;
+}
+.buttons{
+    display: flex;
+    flex-direction: row;
+    justify-content: center;
+    gap: 10px;
+}

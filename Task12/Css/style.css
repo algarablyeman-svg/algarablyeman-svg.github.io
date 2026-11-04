@@ -1,0 +1,18 @@
+.hero{
+    color: white;
+    text-align: center;
+    background:linear-gradient(90deg, rgb(223, 65, 131) 0%, rgb(227, 14, 227) 50%, rgb(6, 173, 107) 100%);
+    min-height: 100px;
+    max-height: 200px;
+    overflow: auto;   
+}
+.title span{
+    
+    background:linear-gradient(90deg, rgb(37, 65, 224) 0%, rgb(227, 247, 98) 100%);
+   -webkit-background-clip: text;
+   background-clip: text;
+    color: transparent;
+}
+.title{ 
+    text-align: center;
+}
